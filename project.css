@@ -1,0 +1,56 @@
+a{
+    text-decoration: none;
+    margin: 5px;
+    padding: 1px;
+    color: rgb(36, 22, 22);
+    font-weight: bolder;
+
+}
+.header{
+    display: flex;
+    align-items: center;
+
+   
+}
+
+.navbars{
+    text-decoration: none;
+    color:   #502314;
+    justify-content: space-between;
+}
+
+.burger1 input{
+    color: rgb(36, 22, 22);
+    width: 500px;
+    padding: 15px;
+    border-radius: 7px;
+} 
+
+h2{
+    font: bolder;
+    font-size: xx-large
+}
+h3 .smith{
+    font: bolder;
+    font-size: 
+}
+.jay{
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 1000px;
+  height: 600px;
+}
+
+
+
+a:hover{
+    border: 1px solid orangered;
+    border-radius: 20px ;
+    background-color: orangered;
+    color: #502314;
+
+}
+.text{
+    font: bolder;
+}
